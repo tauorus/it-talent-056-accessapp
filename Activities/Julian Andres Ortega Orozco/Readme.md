@@ -1,11 +1,11 @@
 # Julián Andrés Ortega Orozco - Activities - Tasks
 
->Javascript calculator
->Modulosdesk.com
->Ruby Calculator
->Xhr Request
+* Javascript calculator
+* Modulosdesk.com
+* Ruby Calculator
+* Xhr Request
 
-#Tasks Description:
+# Tasks Description:
 ## Javascript calculator
 >Example of basic operations in javascript
 
