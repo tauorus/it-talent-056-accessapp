@@ -8,7 +8,7 @@
 >This folder contains Prototype Files for AccessApp (Wireframes)
 
 ## Wireframes Images
->This folder contains AccessApp Prototype Files (images & Wireframes)
+>This folder contains AccessApp Prototype Files (Wireframes Image format)
 
 ### Developed By:
 * Julián Andrés Ortega Orozco
