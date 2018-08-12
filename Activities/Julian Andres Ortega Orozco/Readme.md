@@ -5,7 +5,7 @@
 >Ruby Calculator
 >Xhr Request
 
-#Tasks Description:
+# Tasks Description:
 ## Javascript calculator
 >Example of basic operations in javascript
 
