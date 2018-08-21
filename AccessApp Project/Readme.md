@@ -4,6 +4,10 @@
 ## Data Model
 >This folder contains Data Model Files for AccessApp (Data Model)
 
+
+## LandingPage
+>This folder contains the landing page Files for AccessApp (Landing Page)
+
 ## Wireframes Html
 >This folder contains Prototype Files for AccessApp (Wireframes)
 
