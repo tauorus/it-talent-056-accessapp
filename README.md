@@ -1,5 +1,5 @@
 # Access App
->Tool to facilitate the mobility of disabled people, in the town of La Candelaria, through routes and points that facilitate travel.
+>Tool to facilitate the mobility of people with disabilities, in the town of La Candelaria, through routes and points that facilitate their mobility.
 
 ## Developed By:
 * Julián Andrés Ortega Orozco
