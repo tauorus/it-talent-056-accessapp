@@ -36,15 +36,15 @@ Repository [it-talent-056-accessapp]: https://github.com/TalentoBogotaFedesoft/i
 ## AccessApp Project Documents
 
 AccessApp - Landing Page - ver documento: 
-[LandingPage](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/LandingPage/AccessAppLandingPage.pdf)
+[LandingPage.pdf](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/LandingPage/AccessAppLandingPage.pdf)
 
 AccessApp - Wireframes - Prototype - ver documento: 
-[Wireframes](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/WireframesImages/AccessApp_Wireframes.pdf)
+[Wireframes.pdf](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/WireframesImages/AccessApp_Wireframes.pdf)
 
 AccessApp - Modelo de Datos - ver documento:
-[DataModel](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/Data%20Model/AccessAppDataModel.pdf)
+[DataModel.pdf](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/Data%20Model/AccessAppDataModel.pdf)
 
 AccessApp - Documento de especificaciones - ver documento:
-[Specification](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/Specification/AccessApp-specification.pdf)
+[Specification.pdf](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/Specification/AccessApp-specification.pdf)
 
 ---
