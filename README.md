@@ -1,4 +1,10 @@
-# Access App
+
+## Talento Bogotá Fedesoft - Grupo 56 - AccessApp
+### Herramienta para facilitar la movilidad de personas con discapacidad.
+
+# AccessApp
+![AccessApp](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/Logo/AccessAppLogo.png)
+
 >Tool to facilitate the mobility of people with disabilities, in the town of La Candelaria, through routes and points that facilitate their mobility.
 
 ## Developed By:
