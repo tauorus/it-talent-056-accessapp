@@ -29,7 +29,5 @@
 ```
 
 #### Git Hub Project
-```
-=> it-talent-056-accessapp
-=> Repository: https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp
-```
+Repository [it-talent-056-accessapp]: https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp
+
