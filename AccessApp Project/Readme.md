@@ -1,9 +1,9 @@
 # AccessApp Project
 >This folder contains all Project files needed to develop an App to facilitate the mobility of disabled people, in the town of La Candelaria, through routes and points that facilitate travel.
-
+---
 ## Data Model
 >This folder contains Data Model Files for AccessApp (Data Model)
-
+[DataModel](https://github.com/fullstack-84/grupo-4-crecer-en-inteligencia-social/blob/master/mockup/ReportApp_Mockup.pdf)
 
 ## LandingPage
 >This folder contains the landing page Files for AccessApp (Landing Page)
