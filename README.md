@@ -28,6 +28,12 @@
 => A person from your cell phone can register this information, uploading a photo located geographically, indicate a description of the site and the address, as well as additional information that you consider convenient.
 ```
 
-#### Git Hub Project
+### Git Hub Project
 Repository [it-talent-056-accessapp]: https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp
 
+---
+
+# AccessApp Project Documents
+
+## Data Model Document
+[DataModel](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/Data%20Model/AccessAppDataModel.pdf)
