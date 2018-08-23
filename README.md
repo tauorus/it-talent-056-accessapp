@@ -3,11 +3,11 @@
 >Tool to facilitate the mobility of people with disabilities, in the town of La Candelaria, through routes and points that facilitate their mobility.
 
 ## AccessApp
-### Herramienta para facilitar la movilidad de personas con discapacidad
-#### Talento Bogotá Fedesoft - Grupo 56
+> Herramienta para facilitar la movilidad de personas con discapacidad
+> Talento Bogotá Fedesoft - Grupo 56
 
 ### Developed By:
-* Julián Andrés Ortega Orozco - Julian.Ortega16@gmail.com - 12 AUG 2018
+> Julián Andrés Ortega Orozco - Julian.Ortega16@gmail.com - 12 AUG 2018
 
 ## Challenge
 >How can we make the locality more accessible for people with disabilities?
