@@ -10,7 +10,7 @@
 ---
 
 ### Developed By:
-> Julián Andrés Ortega Orozco - Julian.Ortega16@gmail.com - 12 AUG 2018
+> Julián Andrés Ortega Orozco - Julian.Ortega16@gmail.com - 12 AUG 2018 - https://www.appsistems.com
 
 ### Challenge
 >How can we make the locality more accessible for people with disabilities?
