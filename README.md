@@ -4,8 +4,8 @@
 
 ## AccessApp
 ```
-> Herramienta para facilitar la movilidad de personas con discapacidad -
-> Talento Bogotá Fedesoft - Grupo 56
+Herramienta para facilitar la movilidad de personas con discapacidad
+Talento Bogotá Fedesoft - Grupo 56
 ```
 
 ### Developed By:
