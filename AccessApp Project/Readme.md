@@ -3,7 +3,7 @@
 ---
 ## Data Model
 >This folder contains Data Model Files for AccessApp (Data Model)
-[DataModel](https://github.com/fullstack-84/grupo-4-crecer-en-inteligencia-social/blob/master/mockup/ReportApp_Mockup.pdf)
+[DataModel](https://github.com/TalentoBogotaFedesoft/it-talent-056-accessapp/blob/master/AccessApp%20Project/Data%20Model/AccessAppDataModel.pdf)
 
 ## LandingPage
 >This folder contains the landing page Files for AccessApp (Landing Page)
